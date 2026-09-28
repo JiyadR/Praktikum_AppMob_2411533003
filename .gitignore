@@ -1,0 +1,54 @@
+# Folder yang tidak di-push ke branch ini
+/Praktikum 3/
+/Praktikum 3 - Copy/
+
+# Nested git metadata
+**/.git/
+
+# Flutter / Dart
+**/.dart_tool/
+**/build/
+**/.pub-cache/
+**/.pub/
+**/.packages
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/coverage/
+**/.widget_preview/
+
+# IDE
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+**/.vscode/
+
+# Android / Gradle
+**/.gradle/
+**/local.properties
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/captures/
+**/*.apk
+**/*.aab
+**/*.keystore
+**/*.jks
+
+# iOS / macOS generated
+**/Pods/
+**/.symlinks/
+**/Flutter/ephemeral/
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_export_environment.sh
+**/ServiceDefinitions.json
+**/Runner.xcworkspace/xcuserdata/
+**/*.xcuserstate
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archives
+*.zip
