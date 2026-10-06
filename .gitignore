@@ -1,7 +1,11 @@
-# Folder yang tidak di-push
-/Praktikum 3 - Copy/
+# Hanya Praktikum4 yang di-track. Folder lain diabaikan.
+/Modul 1/
+/Modul 2/
+/Praktikum 1/
+/Praktikum 2/
+/Praktikum 3/
 
-# Nested git metadata (repo lama di dalam folder)
+# Nested git metadata
 **/.git/
 
 # Flutter / Dart
@@ -49,5 +53,5 @@
 Thumbs.db
 desktop.ini
 
-# Archives (sumber sudah ada di folder Modul)
+# Archives
 *.zip
